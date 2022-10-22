@@ -10,7 +10,7 @@ A. Pengenalan Pemrograman
 4. Belajar GIT untuk Pemula
 
 
-#Front End
+*Front End
 
 
 B. Front End Dasar
@@ -29,7 +29,7 @@ C. Front End Lanjutan
 5. Belajar Cepat Vue.js
 
 
-#Back End
+*Back End
 
 
 A. Back End Dasar

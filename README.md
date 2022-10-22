@@ -44,6 +44,6 @@ B. Back End Lanjutan
 1. Menguasai Framework CodeIgniter
 2. Laravel 8x Fundamental
 3. Laravel 6 Intermediate
-4. Membangun RESTful API dengan Laravel 6
+4. Membangun Restful API dengan Laravel 6
 5. Sistem Otentikasi API Berbasis OAuth dengan Laravel Passport
 6. Membuat Role Management Menggunakan Laravel
